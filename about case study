@@ -1,0 +1,15 @@
+# Amazon E-Commerce Orders & Sales Analysis - 2023
+This repository contains an in-depth analysis of Amazon's e-commerce orders dataset from 2023. The dataset spans orders from 14 countries and includes three key tables:
+
+Orders: Details of every order including order ID, timestamp (GMT), order source (App, Website, Whatsapp, Other), and order value in rupees.
+Customers: Demographics and segmentation (age, gender, country, customer category) for each customer.
+Sales Targets: Mapping of Sales POCs to Sales Managers, the teams (Alpha, Beta, Gamma, Delta, Epsilon), and individual sales targets.
+Key Insights Explored:
+
+Order Analysis: Trends in order volume, order sources, and order values.
+Customer Behavior: Analysis of customer demographics and categorization.
+Sales Performance: Evaluation of sales team performance against targets.
+Delivery & Supply Chain: Overview of order fulfillment timelines and country-specific performance.
+Product Focus: Special attention on the mobile accessories category, which drives a significant portion of orders.
+The goal of this project is to derive actionable insights that can help increase the number and value of orders, ultimately boosting revenue.
+
